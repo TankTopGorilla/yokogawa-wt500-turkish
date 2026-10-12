@@ -35,8 +35,8 @@ This is an unofficial, community-driven translation of the Yokogawa WT500 Power 
 
 ## Nasıl bulunur (Where to find it)
 
-- Internet Archive: https://archive.org/details/yokogawa-wt500-tr (tam metin araması desteklenir)
-- GitHub Releases: bu sayfadaki release asset
+- GitHub Releases: https://github.com/TankTopGorilla/yokogawa-wt500-turkish/releases/tag/v1.0
+- Doğrudan PDF: https://github.com/TankTopGorilla/yokogawa-wt500-turkish/releases/download/v1.0/YOKOGAWA_WT500_TR_compressed.pdf
 
 ## Katkı / düzeltme
 
