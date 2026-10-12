@@ -13,7 +13,7 @@ This is an unofficial, community-driven translation of the Yokogawa WT500 Power 
 ## Önemli uyarılar (Important caveats — read before relying on it)
 
 - **Bu resmi bir çeviri değildir.** Orijinal metnin telif hakkı Yokogawa Electric Corporation / Yokogawa Test & Measurement Corporation'a aittir. Ticari amaç taşımaz.
-- **1015 metin bloğu yerleşemedi.** Çeviri sürecinde 40 grubun bazı sayfalarında Türkçe metin, izinlenen minimum puntoya sığmadığı için PDF'e yerleştirilmedi. Yani bazı cümleler orijinal İngilizce hâlîyle duruyor olabilir. Yerleştirilemeyen çeviriler `work/translated/group_XX_tr.json` dosyalarında mevcuttur.
+- **1015 metin bloğu layout'a sığmadı.** Çeviri sürecinde 281 sayfada bazı bloklar, izinlenen minimum puntoya (orijinalin %70'i) indirgenmesine rağmen kutuya girmedi ve PDF'e yerleştirilmedi. Bu alanlar **boş görünüyor** — metin İngilizce kalmıyor, tamamen kayboluyor. Yerleştirilemeyen blokların çevirisi `unplaced_translations.md` dosyasında sayfa sayfa listelenmiştir.
 - **Güvenlik metinleri dikkatle çevrilmiştir** (UYARI / DİKKAT / NOT), ancak kritik bir ölçüm/yapılandırma kararı almadan önce mutlaka İngilizce orijinale de bakın.
 - **Bilinen belirsizlikler:** kaynak PDF'te bazı ifadeler bozuk veya çelişkili (ör. s. 91 montaj yeri ifadesi, s. 289 Fransızca uyarı metni, s. 387 ölçüm süresi ifadesi). Bunlar olduğu gibi çevrilmiştir; ayrıntı `summary_report.md` içinde.
 
